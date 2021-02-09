@@ -29,7 +29,7 @@ __}__
 __till I reach S :fire:__
 
 
-#### My Top Languages
+#### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeollow&layout=compact)](https://github.com/anuraghazra/github-readme-stats) \
 __Where's Kotlin... :sweat_smile:__
 
