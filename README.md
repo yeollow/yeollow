@@ -1,22 +1,33 @@
-### Hi there :wave:
+## "Hello World:heavy_exclamation_mark:" I'm yeollow 
 
-### "Hello World:heavy_exclamation_mark:" I'm yeollow 
+try{ \
+　　hi there 👋 Good day! I'm __jeong yeol Lee__ and you can call me __yeollow__ \
+　　Since 2016, I have been majoring in __computer science__ at KNU :school: \
+　　Later, I want to grow up to be a good and perminent __backend developer__ :necktie: \
+} catch(BackendDeveloperException exception){ \
+　　log.error(exception.getMessage()); \
+}
 
-Good day! I'm <strong>jeong yeol Lee</strong> and you can call me <strong>yeollow</strong> \
-Since 2016, I have been majoring in computer science at KNU :school: \
-Later, I want to grow up to be a good and perminent backend developer :necktie: 
 
 #### What interests
-- Spring Boot
-- JPA
-- HTTP
-- docker / Kubernetes
-- Java
-- Kotlin
+- __Spring Boot__
+- __JPA__
+- __HTTP__
+- __docker / Kubernetes__
+- __Java__
+- __Kotlin__
+
+
+#### My Representative project
+- __[yeol's Board](https://github.com/yeollow/springStarter)__
+- __[knuGra](https://github.com/yeollow/knugra-spring)__ (developing)
+- __[communityApp](https://github.com/403-gallery-gongsung/community-app)__ (developing)
+
 
 #### My Github Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yeollow)](https://github.com/anuraghazra/github-readme-stats) \
 till I reach S :fire:
+
 
 #### My Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeollow&layout=compact)](https://github.com/anuraghazra/github-readme-stats) \
