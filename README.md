@@ -8,7 +8,7 @@ __} catch(BackendDeveloperException exception){__ \
 　　log.error(exception.getMessage()); \
 __}__
 
-
+ 
 #### What interests
 - __Spring Boot__
 - __JPA__
