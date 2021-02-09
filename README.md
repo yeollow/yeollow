@@ -7,12 +7,12 @@ Since 2016, I have been majoring in computer science at KNU :school: \
 Later, I want to grow up to be a good and perminent backend developer :necktie: 
 
 #### What interests
-- Spring
+- Spring Boot
 - JPA
-- Java
-- Kotlin
 - HTTP
 - docker / Kubernetes
+- Java
+- Kotlin
 
 #### My Github Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yeollow)](https://github.com/anuraghazra/github-readme-stats) \
