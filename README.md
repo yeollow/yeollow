@@ -1,12 +1,12 @@
 ## "Hello World:heavy_exclamation_mark:" I'm yeollow 
 
-try{ \
+__try{__ \
 　　hi there 👋 Good day! I'm __jeong yeol Lee__ and you can call me __yeollow__ \
 　　Since 2016, I have been majoring in __computer science__ at KNU :school: \
 　　Later, I want to grow up to be a good and perminent __backend developer__ :necktie: \
-} catch(BackendDeveloperException exception){ \
+__} catch(BackendDeveloperException exception){__ \
 　　log.error(exception.getMessage()); \
-}
+__}__
 
 
 #### What interests
