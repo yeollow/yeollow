@@ -15,9 +15,7 @@ __}__
 - __HTTP__
 - __docker / Kubernetes__
 - __Kafka__
-- __Java__
-- __Kotlin__
-- __Go__
+- __Java__ / __Kotlin__ / __Go__
 
 
 #### My Representative project
