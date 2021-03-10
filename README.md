@@ -10,12 +10,14 @@ __}__
 
  
 #### What interests
-- __Spring Boot__
+- __Spring__
 - __JPA__
 - __HTTP__
 - __docker / Kubernetes__
+- __Kafka__
 - __Java__
 - __Kotlin__
+- __Go__
 
 
 #### My Representative project
