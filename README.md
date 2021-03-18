@@ -4,7 +4,7 @@ __try{__ \
 　　hi there 👋 Good day! I'm __jeong yeol Lee__ and you can call me __yeollow__ \
 　　Since 2016, I have been majoring in __computer science__ at KNU :school: \
 　　Later, I want to grow up to be a good and perminent __backend developer__  :necktie: \
-　　　　who wants to provide seamless service to users  \
+　　who wants to provide seamless service to users  \
 __} catch(BackendDeveloperException exception){__ \
 　　log.error(exception.getMessage()); \
 __}__
