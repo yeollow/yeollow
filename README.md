@@ -20,6 +20,7 @@ __}__
 
 
 #### My Representative project
+- __[Eye helper](https://github.com/nowwater/LG_webos)__ _2020 LGSI Hackathon_
 - __[yeol's Board](https://github.com/yeollow/springStarter)__
 - __[knuGra](https://github.com/yeollow/knugra-spring)__ (developing)
 - __[communityApp](https://github.com/403-gallery-gongsung/community-app)__ (developing)
