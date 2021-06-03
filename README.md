@@ -20,11 +20,16 @@ __}__
 
 
 #### My Representative project
-- __[Eye helper](https://github.com/nowwater/LG_webos)__ _2020 LGSI Hackathon_
-- __[yeol's Board](https://github.com/yeollow/springStarter)__
-- __[knuGra](https://github.com/yeollow/knugra-spring)__ (developing)
-- __[communityApp](https://github.com/403-gallery-gongsung/community-app)__ (developing)
-- __[return-home-safely](https://github.com/yeollow/return-home-safely)__ (developing)
+- __[Eye helper](https://github.com/nowwater/LG_webos)__
+    - 2020 LGSI Hackathon first Prize 🥇
+- __[yeol's Board](https://github.com/yeollow/springStarter)__ 
+    - personal project
+- __[knuGra](https://github.com/yeollow/knugra-spring)__ 
+    - Graduation Requirements Verification Service for KNU (developing :racehorse:)
+- __[communityApp](https://github.com/403-gallery-gongsung/community-app)__ 
+    - Community for creating KNU capstone project teams (developing :racehorse:)
+- __[return-home-safely](https://github.com/yeollow/return-home-safely)__ 
+    - Application for safe return home (developing :racehorse:)
 
 
 #### My Github Stats
