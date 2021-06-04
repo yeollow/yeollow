@@ -20,16 +20,18 @@ __}__
 
 
 #### My Representative project
+- __[knuMovie](https://github.com/nowwater/COMP322002_Team13)__
+    - Movie recommendation web service 🎥
 - __[Eye helper](https://github.com/nowwater/LG_webos)__
     - 2020 LGSI Hackathon first Prize 🥇
 - __[yeol's Board](https://github.com/yeollow/springStarter)__ 
-    - personal project
+    - personal project 👊
 - __[knuGra](https://github.com/yeollow/knugra-spring)__ 
-    - Graduation Requirements Verification Service for KNU (developing :racehorse:)
+    - Graduation Requirements Verification Service for KNU (developing 🐎)
 - __[communityApp](https://github.com/403-gallery-gongsung/community-app)__ 
-    - Community for creating KNU capstone project teams (developing :racehorse:)
+    - Community for creating KNU capstone project teams (developing 🐎)
 - __[return-home-safely](https://github.com/yeollow/return-home-safely)__ 
-    - Application for safe return home (developing :racehorse:)
+    - Application for safe return home (developing 🐎)
 
 
 #### My Github Stats
