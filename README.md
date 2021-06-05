@@ -21,7 +21,7 @@ __}__
 
 #### My Representative project
 - __[knuMovie](https://github.com/nowwater/COMP322002_Team13)__
-    - Movie recommendation web service 🎥
+    - Movie recommendation web service 🎥 [go to project demo!](https://www.youtube.com/watch?v=x-SLwNHhMec)
 - __[Eye helper](https://github.com/nowwater/LG_webos)__
     - 2020 LGSI Hackathon first Prize 🥇
 - __[yeol's Board](https://github.com/yeollow/springStarter)__ 
