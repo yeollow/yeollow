@@ -33,7 +33,7 @@ __}__
 - __[return-home-safely](https://github.com/yeollow/return-home-safely)__ 
     - Application for safe return home 🎥[go to project demo!](https://www.youtube.com/watch?v=RexLreyqmGI)
     - KCC 2021 Paper Contest 
-        -  [Paper](https://drive.google.com/file/d/1-EcrthOQFCqrWs66XF6yXfszXJyxOynz/view?usp=sharing)
+        -  [Paper](https://drive.google.com/file/d/1kGwpzeS-SeVIcWlgfArjyh7ieknZCnO3/view?usp=sharing)
         -  [Presentation Video](https://drive.google.com/file/d/1-EcrthOQFCqrWs66XF6yXfszXJyxOynz/view?usp=sharing)
         -  [Presentation](https://docs.google.com/presentation/d/1-6gupTUr2MM8anWCLfVjoWRRKMQ4RMDqyfc4O2NBFIw/edit?usp=sharing)
     - (until deployment is complete.. 🐎)
