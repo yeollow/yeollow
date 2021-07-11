@@ -30,8 +30,9 @@ __}__
     - Graduation Requirements Verification Service for KNU (developing 🐎)
 - __[communityApp](https://github.com/403-gallery-gongsung/community-app)__ 
     - Community for creating KNU capstone project teams (developing 🐎)
-- __[return-home-safely](https://github.com/yeollow/return-home-safely)__ 
-    - Application for safe return home (developing 🐎)
+- __[return-home-safely](https://github.com/yeollow/return-home-safely)__ 🎥
+    - Application for safe return home [go to project demo!](https://www.youtube.com/watch?v=RexLreyqmGI)
+    - (until deployment is complete.. 🐎)
 
 
 #### My Github Stats
