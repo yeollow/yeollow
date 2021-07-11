@@ -1,4 +1,4 @@
-## "Hello World:heavy_exclamation_mark:" I'm yeollow 
+## "Yellow World:heavy_exclamation_mark:" I'm yeollow 
 
 __try{__ \
 　　hi there 👋 Good day! I'm __jeong yeol Lee__ and you can call me __yeollow__ \
