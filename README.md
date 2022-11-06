@@ -30,7 +30,7 @@
  - DevOps
 
 
-### My Representative project
+## My Representative project
 - __[knuMovie](https://github.com/nowwater/COMP322002_Team13)__
     - Movie recommendation web service 🎥 [go to project demo!](https://www.youtube.com/watch?v=x-SLwNHhMec)
 - __[Eye helper](https://github.com/nowwater/LG_webos)__
@@ -50,8 +50,8 @@
         -  [Paper](https://drive.google.com/file/d/1kGwpzeS-SeVIcWlgfArjyh7ieknZCnO3/view?usp=sharing)
         -  [Presentation Video](https://drive.google.com/file/d/1-EcrthOQFCqrWs66XF6yXfszXJyxOynz/view?usp=sharing)
         -  [Presentation](https://docs.google.com/presentation/d/1-6gupTUr2MM8anWCLfVjoWRRKMQ4RMDqyfc4O2NBFIw/edit?usp=sharing)
-    
-
+\
+Besides that, I always want to try new and interesting projects.
 
 #### My Github Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yeollow)](https://github.com/anuraghazra/github-readme-stats) \
