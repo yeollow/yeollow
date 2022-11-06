@@ -28,8 +28,6 @@ __}__
     - 2020 LGSI Hackathon first Prize 🥇  🎥[go to project demo!](https://drive.google.com/file/d/1szk6dVCP_WPgkzpbxWdL7YE6PGuSubPi/view?usp=sharing)
 - __[yeol's Board](https://github.com/yeollow/springStarter)__ 
     - personal project 👊
-- __[knuGra](https://github.com/yeollow/knugra-spring)__ 
-    - Graduation Requirements Verification Service for KNU (developing 🐎)
 - __[communityApp](https://github.com/403-gallery-gongsung/community-app)__ 
     - Community for creating KNU capstone project teams (developing 🐎)
 - __[Aparking](https://github.com/yeollow/Aparking)__ 
@@ -43,7 +41,7 @@ __}__
         -  [Paper](https://drive.google.com/file/d/1kGwpzeS-SeVIcWlgfArjyh7ieknZCnO3/view?usp=sharing)
         -  [Presentation Video](https://drive.google.com/file/d/1-EcrthOQFCqrWs66XF6yXfszXJyxOynz/view?usp=sharing)
         -  [Presentation](https://docs.google.com/presentation/d/1-6gupTUr2MM8anWCLfVjoWRRKMQ4RMDqyfc4O2NBFIw/edit?usp=sharing)
-    - (until deployment is complete.. 🐎)
+    
 
 
 #### My Github Stats
