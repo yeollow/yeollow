@@ -5,19 +5,32 @@
 　　Later, I want to grow up to be a good and perminent __backend developer__  :necktie: \
 　　who wants to provide seamless service to users  \
 
-#### Solved.ac Profile
+### Solved.ac Profile
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljy2784437)](https://solved.ac/ljy2784437/)
 
-#### What interests
-- __Spring__
-- __MySQL__
-- __docker / Kubernetes__
-- __Clean Architecture__
-- __MQ__
-- __Java__ / __Kotlin__ / __Go__
+## What interests
+#### Language
+ - __Java__
+ - __Kotlin__
+
+#### Framework
+ - __Spring__
+ - __Armeria__
+
+#### DB
+ - __MySQL__
+ - __JPA__
+ - __Redis__
+
+#### Topic
+ - __Clean Architecture__
+ - __MSA__
+ - MQ
+ - CI / CD
+ - DevOps
 
 
-#### My Representative project
+### My Representative project
 - __[knuMovie](https://github.com/nowwater/COMP322002_Team13)__
     - Movie recommendation web service 🎥 [go to project demo!](https://www.youtube.com/watch?v=x-SLwNHhMec)
 - __[Eye helper](https://github.com/nowwater/LG_webos)__
