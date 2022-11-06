@@ -10,10 +10,10 @@
 
 #### What interests
 - __Spring__
-- __JPA__
+- __MySQL__
 - __docker / Kubernetes__
-- __CI/CD__
-- __Kafka__
+- __Clean Architecture__
+- __MQ__
 - __Java__ / __Kotlin__ / __Go__
 
 
