@@ -1,4 +1,4 @@
-## "Yellow World:heavy_exclamation_mark:" I'm yeollow 
+## "Yellow World :heavy_exclamation_mark:" I'm yeollow 
 
  Hi  there 👋 Good day! I'm __jeong yeol Lee__ and you can call me __yeollow__ \
  Since 2016, I have been majoring in __computer science__ at KNU :school: \
@@ -37,8 +37,6 @@
     - 2020 LGSI Hackathon first Prize 🥇  🎥[go to project demo!](https://drive.google.com/file/d/1szk6dVCP_WPgkzpbxWdL7YE6PGuSubPi/view?usp=sharing)
 - __[yeol's Board](https://github.com/yeollow/springStarter)__ 
     - personal project 👊
-- __[communityApp](https://github.com/403-gallery-gongsung/community-app)__ 
-    - Community for creating KNU capstone project teams (developing 🐎)
 - __[Aparking](https://github.com/yeollow/Aparking)__ 
     - Application for safe return home 🎥[go to project demo!](https://www.youtube.com/watch?v=SaPCdYJUncc)
     - 한국 방송 미디어 공학회 2020 추계 학술대회
